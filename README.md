@@ -1,7 +1,9 @@
 # IBM-Internship-Final-Project
 Showcasing my final project after a 4-week internship at IBM.
 
-During January to March 2026, I was accepted for the Pearson/IBM Cybersecurity Nonpaid Internship where I worked with my mentor who led me through basic cybersecurity attacks and defenses as well as incident response and threat analysis. As I was learning all this, I continued to make a final project featuring a fictional healthcare company where I was asked to protect it using cybersecurity techniques. Additionally, I was also invited to partake in promotional material for my school in where I was interviewed and was posted in an article about.
+During January to March 2026, I was accepted for the Pearson/IBM Cybersecurity Nonpaid Internship where I worked with my mentor who led me through basic cybersecurity attacks and defenses as well as incident response and threat analysis. As I was learning all this, I continued to make a final project featuring a fictional healthcare company where I was asked to protect it using cybersecurity techniques. Additionally, I was also invited to partake in promotional material for my school in where I was interviewed and was posted in an article about. 
+
+**(PS, I was told to create a script but ended up deciding a presentation was better therefore, this presentation was rushed in 3 days.)**
 
 **Article Link - https://www.connectionsacademy.com/support/resources/article/high-school-ibm-internship-career-prep/**
 
